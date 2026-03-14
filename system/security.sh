@@ -1,0 +1,1 @@
+echo "Security scan placeholder"
