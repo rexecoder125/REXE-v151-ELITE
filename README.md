@@ -52,3 +52,28 @@ pkg install git -y
 git clone https://github.com/rexecoder125/REXE-v151-ELITE
 cd REXE-v151-ELITE
 bash install.sh
+
+nmap
+hydra
+sqlmap
+nikto
+netcat
+tcpdump
+whois
+whatweb
+dirsearch
+dnsutils
+curl
+wget
+git
+python
+nodejs
+clang
+cmake
+figlet
+toilet
+neofetch
+lolcat
+cmatrix
+htop
+traceroute
