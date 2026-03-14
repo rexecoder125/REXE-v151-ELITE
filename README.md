@@ -17,7 +17,7 @@
 
 # ⚡ About
 
-**REXE v151 ELITE** হলো একটি advanced toolkit যা Termux terminal কে Kali Linux style hacker environment এ convert করে।
+**REXE v151 ELITE** is an advanced toolkit designed to transform the Termux terminal into a powerful Kali Linux-style hacker environment inspired by Kali Linux, featuring custom prompts, hacker banners, useful tools, and automation scripts.
 
 Features:
 
