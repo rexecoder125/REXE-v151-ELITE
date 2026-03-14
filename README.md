@@ -53,6 +53,8 @@ git clone https://github.com/rexecoder125/REXE-v151-ELITE
 cd REXE-v151-ELITE
 bash install.sh
 
+
+🧰 Included Tools
 nmap
 hydra
 sqlmap
