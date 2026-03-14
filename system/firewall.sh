@@ -1,0 +1,1 @@
+echo "Firewall status unavailable"
