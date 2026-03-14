@@ -1,0 +1,1 @@
+echo "System startup"
