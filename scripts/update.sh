@@ -3,7 +3,6 @@
 echo "Updating REXE Toolkit..."
 
 cd $HOME/REXE-v151-ELITE
-
 git pull origin main
 
-echo "Update Complete"
+echo "Update Complete!"
