@@ -40,19 +40,6 @@ Features:
 
 </p>
 
----
-
-# 🚀 Installation
-
-Run in Termux
-
-```bash
-pkg update -y
-pkg install git -y
-git clone https://github.com/rexecoder125/REXE-v151-ELITE
-cd REXE-v151-ELITE
-bash install.sh
-
 
 🧰 Included Tools
 nmap
@@ -79,3 +66,16 @@ lolcat
 cmatrix
 htop
 traceroute
+
+---
+
+# 🚀 Installation
+
+Run in Termux
+
+```bash
+pkg update -y
+pkg install git -y
+git clone https://github.com/rexecoder125/REXE-v151-ELITE
+cd REXE-v151-ELITE
+bash install.sh
