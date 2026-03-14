@@ -1,64 +1,54 @@
-# 🔥 REXE v151 ELITE
+# 🟢 REXE v151 ELITE
 
-Advanced Kali Linux Style Terminal for Termux
+<p align="center">
 
----
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=35&center=true&vCenter=true&width=900&lines=REXE+v151+ELITE;Ultimate+Termux+Toolkit;Kali+Linux+Style+Terminal;Hacker+Mode+Activated">
 
-## 👑 Owner
-REXE
-
-## 💻 Developer
-REXE
-
-## ⚡ Version
-v151 ELITE
+</p>
 
 ---
 
-## 🚀 Features
+## 🟢 Badges
 
-✔ Hacker Banner  
-✔ RGB Terminal Theme  
-✔ Matrix Animation  
-✔ Kali Linux Style Prompt  
-✔ Dashboard Menu  
-✔ System Monitor  
-✔ Network Tools  
+![GitHub stars](https://img.shields.io/github/stars/rexecoder125/REXE-v151-ELITE?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/rexecoder125/REXE-v151-ELITE?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/rexecoder125/REXE-v151-ELITE?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/rexecoder125/REXE-v151-ELITE?style=for-the-badge)
 
 ---
 
-## 📦 Installation
+# ⚡ About
+
+**REXE v151 ELITE** হলো একটি advanced toolkit যা Termux terminal কে Kali Linux style hacker environment এ convert করে।
+
+Features:
+
+- Kali style prompt  
+- Hacker banner  
+- Date & time auto display  
+- 30+ useful tools  
+- GitHub auto install  
+- Fast & lightweight  
+
+---
+
+# 🖼 Screenshot
+
+<p align="center">
+
+<img src="screenshot.png" width="800">
+
+</p>
+
+---
+
+# 🚀 Installation
 
 Run in Termux
 
-pkg update
-pkg install git
-
+```bash
+pkg update -y
+pkg install git -y
 git clone https://github.com/rexecoder125/REXE-v151-ELITE
-
 cd REXE-v151-ELITE
-
 bash install.sh
-
----
-
-## 🖥 Preview
-
-┌──(rexe㉿kali)-[~/tools]  
-└─#
-
----
-
-## 🛠 Modules
-
-banner/ – hacker banners  
-theme/ – terminal colors  
-system/ – system monitor  
-tools/ – recon & scan tools  
-dashboard/ – menu system  
-
----
-
-## ⚠ Disclaimer
-
-This project is only for educational purposes.
